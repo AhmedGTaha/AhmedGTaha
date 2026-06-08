@@ -1,7 +1,5 @@
 # Hello World!, I'm Ahmed Taha Ghodhbani 👋🏼:
 👨🏼‍🎓 I'm currently studying **Software Engineering** at the **University of Bahrain**  
-💻 I'm focused on **Full-Stack Web Development, Mobile Applications, AI Integration, REST APIs, and Database-Backed Systems**  
-🚀 I enjoy building practical, production-style projects using modern tools and clean software engineering practices
 
 
 ## 🌐 You Can Find Me On:
@@ -15,22 +13,6 @@
 
 # 🛠️ Tools & Core Areas:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white) ![UI/UX](https://img.shields.io/badge/UI%2FUX-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Software Testing](https://img.shields.io/badge/Software%20Testing-%23009688.svg?style=for-the-badge&logo=testinglibrary&logoColor=white) ![Authentication](https://img.shields.io/badge/Authentication-000000.svg?style=for-the-badge&logo=auth0&logoColor=white) ![RBAC](https://img.shields.io/badge/Role--Based%20Access%20Control-4B5563.svg?style=for-the-badge&logo=lock&logoColor=white)
-
-# 🚀 Featured Projects:
-### 🇧🇭 Alsaeh Tourism Recommender System for Bahrain
-AI-powered tourism recommender that generates personalized day-by-day Bahrain itineraries using **Gemini API**, structured prompt workflows, **Next.js**, **FastAPI**, and **Supabase PostgreSQL**. Includes authentication, saved plans, chatbot-based itinerary editing, admin dataset management, and usage reports.
-
-### 🏥 Care Center App
-Mobile application for medical equipment rentals and donations using **Flutter** and **Firebase**, with authentication, database integration, and role-based navigation for Admin, Renter, and Guest users.
-
-### 🚗 Car Rental System
-Responsive web application for car browsing, booking, and user management using **PHP**, **MySQL PDO**, secure database operations, and a clean user interface.
-
-### 🏫 IT College Room Booking System
-Web application built to help students and faculty manage room bookings, view room equipment, and improve scheduling workflows within the IT College.
-
-### 🌤️ Weather App
-JavaScript web app that retrieves and displays real-time weather data from the **OpenWeatherMap API**.
 
 # 📜 Certifications:
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-CUDA%20C-76B900.svg?style=for-the-badge&logo=nvidia&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-Flutter%20%26%20Dart-0056D2.svg?style=for-the-badge&logo=coursera&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-Parallel%20Computing%20with%20MPI-0056D2.svg?style=for-the-badge&logo=coursera&logoColor=white)
