@@ -13,9 +13,3 @@
 
 # 🛠️ Tools & Core Areas:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white) ![UI/UX](https://img.shields.io/badge/UI%2FUX-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Software Testing](https://img.shields.io/badge/Software%20Testing-%23009688.svg?style=for-the-badge&logo=testinglibrary&logoColor=white) ![Authentication](https://img.shields.io/badge/Authentication-000000.svg?style=for-the-badge&logo=auth0&logoColor=white) ![RBAC](https://img.shields.io/badge/Role--Based%20Access%20Control-4B5563.svg?style=for-the-badge&logo=lock&logoColor=white)
-
-# 📜 Certifications:
-![NVIDIA](https://img.shields.io/badge/NVIDIA-CUDA%20C-76B900.svg?style=for-the-badge&logo=nvidia&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-Flutter%20%26%20Dart-0056D2.svg?style=for-the-badge&logo=coursera&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-Parallel%20Computing%20with%20MPI-0056D2.svg?style=for-the-badge&logo=coursera&logoColor=white)
-
-# 🗣️ Languages:
-![Arabic](https://img.shields.io/badge/Arabic-Native-%2300599C.svg?style=for-the-badge) ![English](https://img.shields.io/badge/English-IELTS%206.0-%23009688.svg?style=for-the-badge) ![French](https://img.shields.io/badge/French-A1-%23002B5B.svg?style=for-the-badge)
