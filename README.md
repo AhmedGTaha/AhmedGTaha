@@ -1,15 +1,43 @@
-# Hello World!, I'm Ahmed Taha Ghodhbani 👋🏼:
-👨🏼‍🎓 I'm currently studying **Software Engineering** at the **University of Bahrain**  
+# Hello World!, I'm Ahmed Taha Ghodhbani 👋🏼
 
+👨🏼‍🎓 I'm currently studying **Software Engineering** at the **University of Bahrain**.
 
-## 🌐 You Can Find Me On:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://ahmedgtaha.github.io/My-Portfolio/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/AhmedGTaha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/ahmed-taha](https://www.linkedin.com/in/ahmed-taha-b4a205395/)) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedtahaghodhbhani@gmail.com)
+## 🌐 You Can Find Me On
 
-# 💻 Ahmed's Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel\&logoColor=white)](https://ahmedgtaha.github.io/My-Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github\&logoColor=white)](https://github.com/AhmedGTaha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ahmed-taha-b4a205395/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:ahmedtahaghodhbhani@gmail.com)
 
-# 🧰 Frameworks & Platforms:
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-black.svg?style=for-the-badge&logo=next.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 💻 Ahmed's Tech Stack
 
-# 🛠️ Tools & Core Areas:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white) ![UI/UX](https://img.shields.io/badge/UI%2FUX-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Software Testing](https://img.shields.io/badge/Software%20Testing-%23009688.svg?style=for-the-badge&logo=testinglibrary&logoColor=white) ![Authentication](https://img.shields.io/badge/Authentication-000000.svg?style=for-the-badge&logo=auth0&logoColor=white) ![RBAC](https://img.shields.io/badge/Role--Based%20Access%20Control-4B5563.svg?style=for-the-badge&logo=lock&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge\&logo=dart\&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+
+# 🧰 Frameworks & Platforms
+
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge\&logo=flutter\&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-black.svg?style=for-the-badge\&logo=next.js\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Supabase](https://img.shields.io/badge/supabase-%233FCF8E.svg?style=for-the-badge\&logo=supabase\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+# 🛠️ Tools & Core Areas
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B.svg?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2.svg?style=for-the-badge\&logo=googlegemini\&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
+![Software Testing](https://img.shields.io/badge/Software%20Testing-%23009688.svg?style=for-the-badge\&logo=testinglibrary\&logoColor=white)
+![Authentication](https://img.shields.io/badge/Authentication-000000.svg?style=for-the-badge\&logo=auth0\&logoColor=white)
+![RBAC](https://img.shields.io/badge/Role--Based%20Access%20Control-4B5563.svg?style=for-the-badge\&logo=lock\&logoColor=white)
