@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel\&logoColor=white)](https://ahmedgtaha.github.io/My-Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github\&logoColor=white)](https://github.com/AhmedGTaha)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ahmed-taha-b4a205395/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:ahmedtahaghodhbhani@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:ahmedtahaghodhbani@gmail.com)
 
 # 💻 Ahmed's Tech Stack
 
