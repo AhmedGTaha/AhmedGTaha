@@ -58,16 +58,6 @@ I build production-ready, database-driven applications across web and mobile. My
 ![Software Testing](https://img.shields.io/badge/Software%20Testing-%23009688.svg?style=for-the-badge\&logo=testinglibrary\&logoColor=white)
 ![Authentication](https://img.shields.io/badge/Authentication-000000.svg?style=for-the-badge\&logo=auth0\&logoColor=white)
 ![RBAC](https://img.shields.io/badge/Role--Based%20Access%20Control-4B5563.svg?style=for-the-badge\&logo=lock\&logoColor=white)
-
-## Education and Certifications
-
-- **B.Sc. in Software Engineering**, University of Bahrain — GPA: 3.22/4.00, September 2026
-- **NVIDIA:** Fundamentals of Accelerated Computing with Modern CUDA C
-- **Parallel Computing with MPI**
-- **Getting Started with Flutter & Dart**
-
-## Languages
-
 - Arabic — Native
 - English — IELTS Academic Band 6.0
 - French — Beginner
