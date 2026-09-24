@@ -10,27 +10,6 @@ I build production-ready, database-driven applications across web and mobile. My
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:ahmedtahaghodhbani@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B973%2039916761-4285F4.svg?logo=googlevoice\&logoColor=white)](tel:+97339916761)
 
-## Experience
-
-### Software Developer Intern · Script IT Solutions
-
-*July 2026 – August 2026 · Bahrain*
-
-- Designed and delivered **Flawless Interviews**, a multi-organization AI recruitment SaaS purchased by Script IT Solutions and adopted in its recruitment workflow.
-- Built end-to-end workflows for job publishing, CV processing, AI-assisted candidate ranking, WhatsApp screening, interviewer review, candidate communication, and interview scheduling.
-- Developed the platform with Next.js, React, TypeScript, PostgreSQL, Drizzle ORM, Tailwind CSS, Gemini AI, and Resend.
-- Implemented custom authentication, RBAC, organization-level data isolation, automated tests with Vitest and Playwright, and production deployment on Vercel and Neon.
-- Designed and developed **Canvas**, an AI-assisted website builder prototype with live preview, reusable sections, collaboration, version history, and validated export.
-
-## Featured Projects
-
-| Project | What it does | Stack | Links |
-| --- | --- | --- | --- |
-| **Alsaeh** | Bilingual AI tourism platform that generates personalized Bahrain itineraries with chatbot editing, saved plans, exports, and administrative reports. | Next.js, FastAPI, Supabase PostgreSQL, Gemini | [Live](https://www.alsaeh.net) |
-| **Real-Time Forum** | Single-page forum with authentication, moderation, online presence, persisted message history, and real-time private messaging. | Go, JavaScript, SQLite, REST APIs, WebSockets | [Live](https://real-time-forum-lac.vercel.app/) · [GitHub](https://github.com/AhmedGTaha/real-time-forum) |
-| **Care Center** | Medical-equipment rental and donation app with role-based access, approvals, lifecycle tracking, notifications, overdue monitoring, and analytics. | Flutter, Dart, Firebase | [GitHub](https://github.com/AhmedGTaha/care_center_app) |
-| **Car Rental System** | Responsive vehicle-booking platform with availability, user profiles, and administrative management. | PHP, MySQL, JavaScript, Bootstrap | [GitHub](https://github.com/AhmedGTaha/Car-Rental-System) |
-
 ## Technical Skills
 
 ### Languages
