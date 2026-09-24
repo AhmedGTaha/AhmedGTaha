@@ -58,6 +58,3 @@ I build production-ready, database-driven applications across web and mobile. My
 ![Software Testing](https://img.shields.io/badge/Software%20Testing-%23009688.svg?style=for-the-badge\&logo=testinglibrary\&logoColor=white)
 ![Authentication](https://img.shields.io/badge/Authentication-000000.svg?style=for-the-badge\&logo=auth0\&logoColor=white)
 ![RBAC](https://img.shields.io/badge/Role--Based%20Access%20Control-4B5563.svg?style=for-the-badge\&logo=lock\&logoColor=white)
-- Arabic — Native
-- English — IELTS Academic Band 6.0
-- French — Beginner
