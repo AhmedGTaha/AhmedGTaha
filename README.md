@@ -9,6 +9,8 @@ I build production-ready, database-driven applications across web and mobile. My
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ahmedtaha-g)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:ahmedtahaghodhbani@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B973%2039916761-4285F4.svg?logo=googlevoice\&logoColor=white)](tel:+97339916761)
+[![Phone 2](https://img.shields.io/badge/Phone-%2B973%2039916761-4285F4.svg?logo=googlevoice\&logoColor=white)](tel:+21654389665)
+
 
 ## Technical Skills
 
